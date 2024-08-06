@@ -1,5 +1,5 @@
 # Contributors
-- [Anirudh Pathaneni](https://github.com/anirudh-pathaneni) **Anirudh's Only open source contribution**
+- [Anirudh Pathaneni](https://github.com/anirudh-pathaneni) **Anirudh's Only open source contribution!**
 - [Vimal Vinod](https://github.com/dalekvim) **Vimal's First open source contribution!**
 - [Adarsh Tiwari](https://github.com/Adarsh753) **Adarsh's First open source contribution!**
 - [Phoebe Gangoso](https://github.com/peewweee) **Phoebe's First open source contribution!**
